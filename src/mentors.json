@@ -4112,5 +4112,30 @@
         "id": "qdesrame"
       }
     ]
+  },
+  {
+    "id": "jorkingwire@gmail.com",
+    "name": "cococola",
+    "avatar": "https://avatars2.githubusercontent.com/u/16694478?s=460&v=4",
+    "title": "FE",
+    "description": "Embrace the world",
+    "country": "CN",
+    "tags": [
+      "frontend"
+    ],
+    "channels": [
+      {
+        "type": "twitter",
+        "id": "Joker_Fizz"
+      },
+      {
+        "type": "github",
+        "id": "Kelier"
+      },
+      {
+        "type": "website",
+        "id": "1996.one"
+      }
+    ]
   }
 ]
